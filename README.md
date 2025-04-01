@@ -41,5 +41,10 @@ The AI-powered medical chatbot is designed to assist users in identifying potent
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-medical-chatbot.git
-   cd ai-medical-chatbot
+   https://github.com/vikasita200421/chatbot.git
+   cd chatbot
+
+###Install dependencies:
+```bash
+  pip install -r requirements.txt
+  python app.py
